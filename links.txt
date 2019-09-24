@@ -1,0 +1,6 @@
+https://www.knowru.com/blog/how-scale-r-restful-apis-using-docker/
+https://github.com/knowru/plumber_example
+https://blog.rstudio.com/2018/10/23/rstudio-1-2-preview-plumber-integration/
+https://www.rplumber.io/
+https://www.rplumber.io/docs/routing-and-input.html#endpoints
+https://www.bing.com/search?q=docker+plumber+unable+to+find+git&form=IENTHT&mkt=en-us&httpsmsn=1&refig=c6ffe9d2c6864925825cfda335da6e94&sp=-1&pq=docker+plumber+unable+to+find+git&sc=0-33&qs=n&sk=&cvid=c6ffe9d2c6864925825cfda335da6e94
